@@ -1,0 +1,81 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# VS Code / PyCharm settings
+.vscode/
+.idea/
+
+# Firebase files
+firebase-debug.log
+.firebase/
+
+# Firebase credentials or secrets (do not track this!)
+serviceAccountKey.json
+firebase-key.json
+
+# Pyre type checker
+.pyre/
+
+# mypy type checker
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# MacOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Local database / SQLite
+*.sqlite3
+*.db
